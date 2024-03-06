@@ -1,0 +1,5 @@
+package meteoproject;
+
+class Comarca {
+    
+}
