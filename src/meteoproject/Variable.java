@@ -9,5 +9,7 @@ class Variable {
         v.id = readInt();
         v.nom = readLong();
         v.unitat_de_mesura = readLong();
+        
+        
     }
 }
