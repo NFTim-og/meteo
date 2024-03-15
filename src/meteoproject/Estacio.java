@@ -1,7 +1,6 @@
 package meteoproject;
 
 public class Estacio {
-    private String codiEstacio;
     private String nomEstacio;
     private String nomMunicipi;
     private int codiComarca;
