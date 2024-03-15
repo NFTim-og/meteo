@@ -3,6 +3,7 @@ package meteoproject;
 import java.io.FileNotFoundException;
 import java.io.RandomAccessFile;
 
+s
 import java.io.*;
 
 class Variable {
